@@ -1,3 +1,4 @@
 # LearningCurve
-Learn to be a proficient software developer.\n
+Learn to be a proficient software developer.
+
 <http://algs4.cs.princeton.edu/home/?utm_medium=email&utm_source=other&utm_campaign=notifications.auto.S2ZZ3eogEeWB5w4qubXfWw>
